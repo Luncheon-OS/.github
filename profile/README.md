@@ -1,11 +1,11 @@
-# luncheonOS
+# Luncheon OS
 Hello, and welcome to the luncheonOS project! Have a look around!
 ## Repositories
-### luncheonos.github.io
+### luncheon-os.github.io
 The website for the project.
 ### packages
 Acts as a package repository for the OS.
-### luncheonOS
+### Luncheon-OS
 The main repository. Stores the project's Archiso profile and related. 
 > *"A Steam Deck UI gaming OS using custom software with Valve software."*
 ### lunchtime
