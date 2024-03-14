@@ -7,3 +7,6 @@ The core of the project! This stores the project's ArchISO profile and stuff.
 ### lunchtime
 The installer for the project. Keeping it simple for now!  
 > *"The installer for luncheonOS."*
+
+# Quotes
+"hol up lemme cook" -Ducky
