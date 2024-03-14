@@ -9,4 +9,4 @@ The installer for the project. Keeping it simple for now!
 > *"The installer for luncheonOS."*
 
 # Quotes
-"hol up lemme cook" -Ducky
+> "hol up lemme cook" -DuckyXD165
